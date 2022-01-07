@@ -1,0 +1,31 @@
+leftnav:
+- identifier: db163bf1-a90a-e532-96fe-30112ab49ddf
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 18c9593e-319e-dae8-0d72-de49534baf31
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 20
+- identifier: ccb69fa2-6392-7ade-d774-c12a6733de1e
+  name: Lecture Notes and Videos
+  url: /video_galleries/lecture-notes-and-videos
+  weight: 30
+- identifier: c3a3632f-bc90-2334-a8f7-d3a17dea9d6e
+  name: Homework
+  url: /pages/homework
+  weight: 40
+- identifier: 7b8fccb6-66ce-bcd5-bd13-45f263238c62
+  name: Projects
+  url: /pages/projects/
+  weight: 50
+- identifier: 94593f6d-f92a-0e3a-8e25-a43adb893bc4
+  name: Individual Project
+  parent: 7b8fccb6-66ce-bcd5-bd13-45f263238c62
+  url: /pages/projects/individual-project
+  weight: 60
+- identifier: 058df135-3f83-c1f0-b61c-9c85c9b23f51
+  name: Group Project
+  parent: 7b8fccb6-66ce-bcd5-bd13-45f263238c62
+  url: /pages/projects/group-project
+  weight: 70
